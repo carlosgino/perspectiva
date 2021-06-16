@@ -1,6 +1,6 @@
 ---
-title: Volvamos a sentirnos peruanos
-author: Marco Parinango
+title: "Volvamos a sentirnos peruanos"
+author: "Marco Parinango"
 date: '2021-06-16'
 slug: peruanos
 categories: []
@@ -8,9 +8,9 @@ tags: []
 description: Article description.
 featured: yes
 toc: no
-featureImage: C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png
+featureImage: images/juntos.png
 thumbnail: /images/path/thumbnail.png
-shareImage: C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png
+shareImage: images/juntos.png
 codeMaxLines: 10
 codeLineNumbers: no
 figurePositionShow: yes
@@ -38,12 +38,26 @@ Y esto lo sabe la inversionista de los partidos de derecha, la CONFIEP. Ellos ne
 Hay trascendidos sobre la Sra K. Al saber que sus aliados empresarios ya no se jugarán por ella, estaría en la lógica de AG, evaluando la posibilidad de solicitar Asilo Político. Sabe que cuando declaren ganador a PC, se activarán con mayor fuerza los juicios contra ella. Por eso su estrategia de denunciar fraude es para sustentar la persecución política y hacer lógico este pedido de Asilo. Se habla que Colombia es la mejor opción sobre Uruguay y Brasil, pues estaría más receptiva en otorgar tal figura diplomática (sí, la Colombia del derechista Duque que está matando a mansalva a gente en la calle).
 
 Pero al margen de los intereses que mueven a KF, es un hecho que estas elecciones han abierto una puerta y activado en la sociedad un sentimiento del que parece, será difícil de salir: la intolerancia. Ahora hay a flor de piel, el ánimo de reconocerse cómodo solo con los que piensan o creen como uno. Al otro, al distinto a uno, a ese impar, hay que alejarlo, separarlo, callarlo y si es posible desaparecerlo, en lo ideológico… (aunque algunos pocos, menos mal, hablan incluso en lo físico).
-No se sabe cuan larga y cruenta pueda ser esta etapa. Lo que si a quedado en evidencia es que hay heridas abiertas y se vienen en el corto tiempo acciones que echarán sal sobre las mismas. 
+No se sabe cuan larga y cruenta pueda ser esta etapa. Lo que si a quedado en evidencia es que hay heridas abiertas y se vienen en el corto tiempo acciones que echarán sal sobre las mismas.
+
 Nuestra sociedad política hoy por hoy no puede llevar a cabo un debate alturado. Para ello, se necesitarán “mediadores” que directa o indirectamente tiendan puentes y eviten que se rompa todo lo hasta ahora se ha logrado en materia de libertades ciudadanas. El debate social y económico no se puede abordar si es que el ruido político usa altavoces ensordecedores que buscan se escuche solo su voz.
 
 Aun no es tarde, aunque el camino se ve tortuoso y difícil.
 
-![insertando imagen](C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png)
+![imagen](C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png)
+
+
+C:\Users\gigar\Documents\GitHub\perspectiva\resources\_gen\images\juntos.png
+
+```{r}
+library(knitr)
+library(png)
+img1_path <- "C:/Users/gigar/Documents/GitHub/perspectiva/resources/_gen/images/juntos.png" 
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+#attr(img1, "info")
+# All defaults
+include_graphics(img1_path)
+```
 
 Es sabido que en los momentos críticos aparecen soluciones o personajes que muestran su altura ante tales circunstancias. Necesitamos que eso ocurra …de lo contrario el país se verá en una sangría interminable de pugnas que marcarán para mal el destino de nuestra bicentenaria República.
 
