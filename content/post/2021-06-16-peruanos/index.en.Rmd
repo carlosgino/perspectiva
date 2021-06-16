@@ -44,23 +44,20 @@ Nuestra sociedad política hoy por hoy no puede llevar a cabo un debate alturado
 
 Aun no es tarde, aunque el camino se ve tortuoso y difícil.
 
-![insertando imagen](C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png)
+![imagen](C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png)
 
+
+C:\Users\gigar\Documents\GitHub\perspectiva\resources\_gen\images\juntos.png
 
 ```{r}
 library(knitr)
 library(png)
-img1_path <- "C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png" 
+img1_path <- "C:/Users/gigar/Documents/GitHub/perspectiva/resources/_gen/images/juntos.png" 
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-attr(img1, "info")
-```
-
-```{r}
+#attr(img1, "info")
 # All defaults
 include_graphics(img1_path)
 ```
-
-
 
 Es sabido que en los momentos críticos aparecen soluciones o personajes que muestran su altura ante tales circunstancias. Necesitamos que eso ocurra …de lo contrario el país se verá en una sangría interminable de pugnas que marcarán para mal el destino de nuestra bicentenaria República.
 
