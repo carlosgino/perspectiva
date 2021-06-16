@@ -1,0 +1,55 @@
+---
+title: Volvamos a sentirnos peruanos
+author: Marco Parinango
+date: '2021-06-16'
+slug: peruanos
+categories: []
+tags: []
+description: Article description.
+featured: yes
+toc: no
+featureImage: /images/path/file.jpg
+thumbnail: /images/path/thumbnail.png
+shareImage: /images/path/share.png
+codeMaxLines: 10
+codeLineNumbers: no
+figurePositionShow: yes
+fontsize: 11pt
+lang: es
+---
+
+**Insert Lead paragraph here.**
+
+Si se movilizan en diferentes lugares la gente de un Asentamiento Humano de Lima, ¿la población de una comunidad nativa o los CEOs de todas las empresas top del Perú, donde crean que habrá más público?
+
+¿Es acaso la cantidad de gente que aglutinamos en una manifestación lo más importante de la misma? La respuesta es NO, así, en mayúsculas. Lo que importa es, primero que se puedan manifestar y segundo que representan a un sector de la población. Pueblo somos todos.
+Ahora, lo que no se puede dejar de lado es lo que transmiten esas manifestaciones. Hay que tener presente que mucho del saber vivir en democracia es aceptar los resultados en una elección. Entonces en la coyuntura actual, ante qué estamos ¿ante el reclamo de derechos vulnerados o ante una negación a reconocer la derrota electoral?
+
+Ahondando en lo que ha pasado, está claro que en estos comicios se han cumplido con los “estándares” para proclamar que la contienda a sido limpia. Con irregularidades sí, pero que son propias de error humano y que no obedecen a un sistema coordinado para alterar ni el proceso ni el resultado. Y esto lo han refrendado los observadores nacionales e internacionales presentes en diferentes lugares del país.
+
+Hasta donde han explicado las autoridades en el tema electoral, las observaciones e impugnaciones son realizadas en el momento del escrutinio, por los personeros o los miembros de la ONPE. Fuera de ello, los personeros nacionales pueden presentar PEDIDOS DE NULIDAD, alegando cosas muy específicas y con pruebas, en un plazo de tres días posteriores a la elección. Así tenemos a los JEE resolviendo de manera pública tanto las observaciones como los Pedidos de Nulidad. Y a la ONPE, muy activa y con envidiables reflejos en su página oficial, desmintiendo los fake news que aparecían mostrando las supuestas acciones fraudulentas.
+
+Al margen de ello, es un hecho que según lo que hasta ahora a publicado la ONPE, FP perdería la elección por una mayor cantidad de votos que en el 2016. Y, a pesar de que su candidata declaró lo mismo “me robaron la elección” no hizo el escándalo de ahora. Eso se explica por: 1) quien la venció fue PPK (y él estaba en el mismo espectro de los grupos que la financiaron) y 2) obtuvo una aplastante mayoría congresal con lo que le permitiría “gobernar desde el Parlamento” (cosa que ahora no ha conseguido).
+
+Esta campaña trajo consigo una fuerte carga ideológica desde el lado de FP, basada en su lema: NO AL COMUNISMO. Una visión bastante arbitraria en tanto considera que la victoria de Perú Libre instalará en el país los modelos de Cuba o Venezuela. Algo que es irreal. Dos hechos históricos lo demuestran: Cuba surge con una guerrilla y sostiene su dictadura al amparo de la URSS -ahora Rusia- por la lucha geopolítica contra EEUU. Mientras que Venezuela cuenta desde los 60s, con la empresa petrolera estatal que proporciona ingentes recursos públicos, a los que Chávez echó mano para financiar su política clientelista. Así pues, no hay punto de comparación ni por apoyo ni por recursos.
+
+Y esto lo sabe la inversionista de los partidos de derecha, la CONFIEP. Ellos necesitan tranquilidad para sus capitales y es en ese sentido que se han manifestado por reconocer los resultados y buscar un compromiso de unión con el vencedor. Saben que la inestabilidad no ayuda y, que el futuro, será muy controversial, así que en sentido pragmático prefieren ver de una vez con quién se van a sentar a conversar y disminuir lo más que puedan los riesgos de su inversión.
+
+Hay trascendidos sobre la Sra K. Al saber que sus aliados empresarios ya no se jugarán por ella, estaría en la lógica de AG, evaluando la posibilidad de solicitar Asilo Político. Sabe que cuando declaren ganador a PC, se activarán con mayor fuerza los juicios contra ella. Por eso su estrategia de denunciar fraude es para sustentar la persecución política y hacer lógico este pedido de Asilo. Se habla que Colombia es la mejor opción sobre Uruguay y Brasil, pues estaría más receptiva en otorgar tal figura diplomática (sí, la Colombia del derechista Duque que está matando a mansalva a gente en la calle).
+
+Pero al margen de los intereses que mueven a KF, es un hecho que estas elecciones han abierto una puerta y activado en la sociedad un sentimiento del que parece, será difícil de salir: la intolerancia. Ahora hay a flor de piel, el ánimo de reconocerse cómodo solo con los que piensan o creen como uno. Al otro, al distinto a uno, a ese impar, hay que alejarlo, separarlo, callarlo y si es posible desaparecerlo, en lo ideológico… (aunque algunos pocos, menos mal, hablan incluso en lo físico).
+No se sabe cuan larga y cruenta pueda ser esta etapa. Lo que si a quedado en evidencia es que hay heridas abiertas y se vienen en el corto tiempo acciones que echarán sal sobre las mismas. 
+Nuestra sociedad política hoy por hoy no puede llevar a cabo un debate alturado. Para ello, se necesitarán “mediadores” que directa o indirectamente tiendan puentes y eviten que se rompa todo lo hasta ahora se ha logrado en materia de libertades ciudadanas. El debate social y económico no se puede abordar si es que el ruido político usa altavoces ensordecedores que buscan se escuche solo su voz.
+
+Aun no es tarde, aunque el camino se ve tortuoso y difícil.
+
+![insertando imagen](perspectiva/static/images/volvamos-juntos.png)
+
+Es sabido que en los momentos críticos aparecen soluciones o personajes que muestran su altura ante tales circunstancias. Necesitamos que eso ocurra …de lo contrario el país se verá en una sangría interminable de pugnas que marcarán para mal el destino de nuestra bicentenaria República.
+
+Pensando en positivo ¿podría ser posible que si salvamos está crisis, se rompa de una vez con el carácter adolescente de país -que describió Luis Alberto Sánchez- para alcanzar por fin credenciales de nación madura?
+
+Francamente no espero tanto, pero creo que si a pesar de todo, se logra que el gobierno electo termine su mandato, esa sería una muestra de estar en el camino correcto para alcanzar la madurez que tanta falta nos hace hoy…
+Ojalá.
+
+Marco Parinango
