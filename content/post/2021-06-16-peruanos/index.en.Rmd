@@ -10,12 +10,12 @@ featured: yes
 toc: no
 featureImage: /images/path/file.jpg
 thumbnail: /images/path/thumbnail.png
-shareImage: /images/path/share.png
+shareImage: /images/juntos.png
 codeMaxLines: 10
 codeLineNumbers: no
 figurePositionShow: yes
 fontsize: 11pt
-lang: es
+lang: en
 ---
 
 **Insert Lead paragraph here.**
@@ -43,7 +43,7 @@ Nuestra sociedad política hoy por hoy no puede llevar a cabo un debate alturado
 
 Aun no es tarde, aunque el camino se ve tortuoso y difícil.
 
-![insertando imagen](perspectiva/static/images/volvamos-juntos.png)
+![insertando imagen](C:/Users/gigar/Documents/GitHub/perspectiva/static/images/juntos.png)
 
 Es sabido que en los momentos críticos aparecen soluciones o personajes que muestran su altura ante tales circunstancias. Necesitamos que eso ocurra …de lo contrario el país se verá en una sangría interminable de pugnas que marcarán para mal el destino de nuestra bicentenaria República.
 
